@@ -51,11 +51,4 @@ class Song
     return artists_per_genre
   end
 
-
-
-
-
-
-
-
 end
